@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamishwar
 - 👀 I’m interested in ... Computers Networking & Programming
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... Java Related Projects
+- 🌱 I’m currently learning ... Pyhton
+- 💞️ I’m looking to collaborate on ... Python Related Projects
 - 📫 How to reach me ... here or on my insta id @iamishwarr
 
 <!---
